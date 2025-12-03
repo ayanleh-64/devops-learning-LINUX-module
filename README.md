@@ -1,4 +1,4 @@
-# Devops Learning Linux Module-
+# Devops Learning Linux Module -
 
 This repository contains my notes, exercises, and challenge solutions from the Linux module of the CoderCo DevOps bootcamp.
 
