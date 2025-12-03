@@ -1,31 +1,52 @@
-DevOps Learning - Linux Module
-This repository contains my practical exercises, notes, and challenge solutions from the Linux module in the CoderCo DevOps course.
+# Linux Module – CoderCo DevOps Course
 
-What I learned
-Navigating and managing the Linux file system
-Understanding file permissions and ownership
-User and group management basics
-Process management and monitoring
-Networking essentials and SSH usage
-Environment variables and shell basics
-Hands-on security and command-line challenges with OverTheWire Bandit (Levels 1 to 20)
-OverTheWire Bandit Journey (Levels 1 to 20)
-I completed the first 20 levels of the Bandit wargame, which provided practical experience in:
+This repository contains my notes, exercises, and challenge solutions from the Linux module of the CoderCo DevOps bootcamp.
 
-Command-line navigation and file operations
-Text processing using tools like grep, sort, uniq, and diff
-Handling various file formats, encodings, and compressions (base64, ROT13, hex, gzip, bzip2, tar)
-Working with file permissions and ownership to find restricted files
-Establishing and managing network connections with nc (netcat) and openssl for SSL/TLS
-Using SSH with private keys and non-interactive commands to bypass login restrictions
-Identifying and utilizing setuid binaries for privilege escalation
-Combining all these skills to solve progressively complex challenges
-SAD Server Challenges
-I’ve worked through some of the SAD Server scenarios, a Linux-based security challenge that involves investigating a compromised system and restoring its integrity. So far, I’ve completed the first three challenges:
+---
 
-"Saint John" – Investigated what process was writing to a suspicious log file (Fix – No Registration) ✅
-"Saskatoon" – Analyzed and counted IP addresses from logs to find malicious actors (Do) ✅
-"The Command Line Murders" – Solved a mystery using only the command line (Do – No Registration) ✅
-These challenges have further sharpened my skills in log analysis, forensic investigation, and bash scripting, simulating real-world DevOps and security troubleshooting scenarios.
+## 📌 What This Module Covered
+During this module, I developed a strong understanding of Linux fundamentals through hands-on tasks and troubleshooting scenarios. Key areas included:
 
-This journey has greatly improved my Linux command-line proficiency and prepared me for more advanced DevOps and security tasks.
+- Navigating and managing the Linux filesystem
+- Understanding permissions, ownership, and access control
+- User and group creation and administration
+- Process monitoring and management
+- Networking basics and effective SSH usage
+- Shell environments, variables, and command history
+- Applied command-line practice through real challenges
+
+---
+
+## 🎮 OverTheWire Bandit (Levels 1–20)
+I completed the first 20 levels of the Bandit wargame, which reinforced my command-line knowledge through practical, puzzle-style challenges.
+
+**Skills built while completing Bandit:**
+- File navigation and manipulation
+- Searching and filtering text using tools such as `grep`, `sort`, `uniq`, and `diff`
+- Extracting information from encoded and compressed files (base64, ROT13, gzip, tar, bzip2, hex)
+- Investigating and resolving permission-related issues
+- Connecting to remote services using tools like `nc` (netcat) and `openssl`
+- Using SSH keys and non-interactive SSH commands
+- Understanding and utilising setuid binaries for privilege escalation
+- Combining multiple Linux concepts to solve increasingly complex tasks
+
+---
+
+## 🔎 SAD Server Challenges
+I also worked through several SAD Server scenarios, which simulate real-life DevOps troubleshooting and security incidents.
+
+Challenges completed:
+- **Saint John** – Identified a suspicious process writing to a log file
+- **Saskatoon** – Investigated log entries and isolated malicious IP addresses
+- **The Command Line Murders** – Solved a full investigation entirely through Linux CLI tools
+
+These challenges improved my practical skills in log analysis, bash scripting, and system investigation.
+
+---
+
+## 🚀 Reflection
+This module significantly improved my confidence working with Linux. The combination of structured lessons, wargame puzzles, and realistic troubleshooting scenarios provided essential experience for future DevOps-focused topics in the course.
+
+---
+
+Feel free to explore the folders to see my notes, scripts, and challenge walkthroughs.
