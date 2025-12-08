@@ -1,17 +1,18 @@
-##Level 0
+# Level 0
 
-#Goal:
+## Goal:
+
 Log into the Bandit server for the first time.
 
-#Steps I Took:
+## Steps I Took:
 
-SSH into Bandit:
-ssh bandit.labs.overthewire.org -p 2220 -l bandit0
+### SSH into Bandit:
 
-Logged in with password: bandit0
+```ssh bandit.labs.overthewire.org -p 2220 -l bandit0```
+
+Logged in with password: ```bandit0```
 
 Password:
-bandit0
+```bandit0```
 
-Notes / Key Takeaways / Struggles:
-(Add your notes here)
+
