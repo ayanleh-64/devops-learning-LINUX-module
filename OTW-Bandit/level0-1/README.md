@@ -10,3 +10,6 @@ The password for the next level is stored in a file called ```readme``` located 
 ### Password Found: 
 ```ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If```
 
+![Screenshot](bandit0-1.png).
+
+
