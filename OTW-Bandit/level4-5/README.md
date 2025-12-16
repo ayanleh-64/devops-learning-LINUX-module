@@ -9,8 +9,9 @@ The password for the next level is stored in the only human-readable file in the
 - The command I used was ```file ./-file*``` . The reason is because since the files had the similar names just different numbers I could use ```*``` to include all the files that began with ```-file```
 - Finally i used ```cat ./-file07``` to read the file and acquire the password.
 ### Password Found: 
-```2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ ```
+```4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw ```
 
 ![Screenshot](bandit4-5.png).
+
 
 
