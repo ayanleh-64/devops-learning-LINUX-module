@@ -23,8 +23,9 @@ The most important thing when making long commands is to run the command at each
 Heres the full command i ran:
 ```find maybehere* -type f -size +1029c -size -1037c ! -perm /111 -exec file {} \;``` 
 
-
+### Password Found: 
 ```HWasnPhtq9AVKe0dmk45nxy20cvUa6EG```
 
 ![Screenshot](bandit5-6.png).
+
 
