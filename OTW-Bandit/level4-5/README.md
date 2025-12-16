@@ -6,9 +6,10 @@ The password for the next level is stored in the only human-readable file in the
 - Once I logged on i used ```ls``` to check the contents of the directory
 - Then i used ```cd inhere``` to go inside the ```inhere``` directory
 - I then used the ```file``` command to check each file and found that ```-file07``` was human readable.
-- The command I used was ```file ./-file*``` . The reason is because since the files had the similar names just different numbers I could use ```*``` to include all the files with that began with ```-file```
+- The command I used was ```file ./-file*``` . The reason is because since the files had the similar names just different numbers I could use ```*``` to include all the files that began with ```-file```
 - Finally i used ```cat ./-file07``` to obtain the password for the next level
 ### Password Found: 
 ```2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ ```
 
 ![Screenshot](bandit4-5.png).
+
