@@ -16,11 +16,15 @@ The password for the next level is stored somewhere on the server and has all th
 ### Password Found: 
 ```morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj ```
 
-After doing some research I realised that because of my lack of Linux knowledge I don't really have the understanding where certain files could be. 
 
-Realistically I should of limited the find command to certain directories , omit executable files, include only files that are readable. 
+## Lessons Learned:
 
-This is a better approach than searching the entire filesystem from the root as I will get a lot of permission denied. 
+- After doing some research I realised that because of my lack of Linux knowledge I don't really have the understanding where certain files could be. 
+
+- Realistically I should of limited the ```find``` command to certain directories , omit executable files and redirected the error output to ```2>/dev/null``` to keep results readable
+
+- This is a better approach than searching the entire filesystem from the root as I will get a lot of permission denied. 
 
 
 ![Screenshot](bandit6-7.png).
+
