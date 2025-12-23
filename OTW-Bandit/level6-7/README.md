@@ -26,5 +26,7 @@ The password for the next level is stored somewhere on the server and has all th
 - This is a better approach than searching the entire filesystem from the root as I will get a lot of permission denied. 
 
 
-![Screenshot](bandit6-7.png).
+![Screenshot](bandit6-7-1.png).
+![Screenshot](bandit6-7-2.png).
+
 
