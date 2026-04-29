@@ -18,3 +18,5 @@ The password for the next level is stored in the file `data.txt` next to the wor
 ## Lessons Learned:
 - Firstly when dealing with large text files it is inefficient to scroll through the text to find your objective.
 - Secondly running multiple commands on a single line is much quicker.
+
+![Screenshot](bandit7-8-.png).
